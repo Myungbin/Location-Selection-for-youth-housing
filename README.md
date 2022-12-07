@@ -1,2 +1,11 @@
-# Location-Selection-for-youth-housing
-역세권 청년 주택 입지선정
+# 역세권 청년주택 최적입지선정
+
+
+## 🧐 About <a name = "about"></a>
+
+~~
+## Comments
+
+~~
+##  ✍️ Authors
+ ``곽명빈`` [@ Myungbin](https://github.com/Myungbin?tab=repositories)
